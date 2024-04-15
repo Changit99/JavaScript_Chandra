@@ -1,3 +1,5 @@
+//Using Objectliterls
+
 const jsUser={
     name:"Chandra",
     Email:"chandrakantaghosh81@gmail.com",
